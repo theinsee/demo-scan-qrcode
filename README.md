@@ -1,7 +1,7 @@
 # demo-scan-qrcode
-npm i 
+npm i <br/>
 npm start <br/>
-demo qrcode \n
-001.png \n
-002.png \n
-003.png \n
+demo qrcode <br/>
+001.png <br/>
+002.png <br/>
+003.png <br/>
