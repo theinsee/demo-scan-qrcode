@@ -1,6 +1,6 @@
 # demo-scan-qrcode
-npm i \n
-npm start \n
+npm i 
+npm start <br/>
 demo qrcode \n
 001.png \n
 002.png \n
